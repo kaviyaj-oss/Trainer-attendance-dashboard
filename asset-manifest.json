@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trainer-attendance-dashboard/static/css/main.ce30cc39.css",
+    "main.js": "/Trainer-attendance-dashboard/static/js/main.2703cce9.js",
+    "static/js/453.0d00876a.chunk.js": "/Trainer-attendance-dashboard/static/js/453.0d00876a.chunk.js",
+    "index.html": "/Trainer-attendance-dashboard/index.html",
+    "main.ce30cc39.css.map": "/Trainer-attendance-dashboard/static/css/main.ce30cc39.css.map",
+    "main.2703cce9.js.map": "/Trainer-attendance-dashboard/static/js/main.2703cce9.js.map",
+    "453.0d00876a.chunk.js.map": "/Trainer-attendance-dashboard/static/js/453.0d00876a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce30cc39.css",
+    "static/js/main.2703cce9.js"
+  ]
+}
